@@ -4,3 +4,4 @@
 // Sever-side: node.js
 // Dynamic effects and interactivity
 // Modern web applications
+// Before moving onto frameworks like: React and Angular: MASTER JAVASCRIPT
