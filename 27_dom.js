@@ -1,3 +1,5 @@
+//DOCUMENT OBJECT MODEL
+
 /*DOM - Document Object Model
 Strucutred representation of an HTML document
 Connect webpages to scripts
